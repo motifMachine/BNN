@@ -1,5 +1,4 @@
-# Improve the Accuracy of Binarized Neural Networks
+# Binarized neural network
 
-This is the main code for paper" Improve the Accuracy of Binarized Neural Networks".(https://)
+Code for https://arxiv.org/abs/1604.03058 and "Improve the Accuracy of Binarized Neural Networks".
 
-The codes of ResNet in BVLC and 13layer come from https://github.com/tensorflow/models/blob/master/official/resnet/resnet_model.py. 
