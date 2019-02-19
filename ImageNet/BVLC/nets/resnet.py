@@ -11,6 +11,8 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
+# The code comes from https://github.com/tensorflow/models/blob/master/official/resnet/resnet_model.py. 
 # ==============================================================================
 """Contains definitions for Residual Networks.
 Residual networks ('v1' ResNets) were originally proposed in:
